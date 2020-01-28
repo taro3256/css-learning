@@ -1,0 +1,31 @@
+.item {
+    margin: 5px;
+}
+
+.flex-basic {
+    display: flex;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.flex-rev {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-content {
+    display: flex;
+    justify-content: center;
+}
+
+.align-items {
+    display: flex;
+    align-items: center;
+}
